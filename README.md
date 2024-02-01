@@ -41,4 +41,4 @@
 | Arduinot自走車 + 手部辨識  | [連結](https://docs.google.com/presentation/d/1nv2bYVgAy6D_JHndNl_RNbnsYNxrZ7uJ/edit?usp=drive_link&ouid=106659503145395898140&rtpof=true&sd=true) | [自走車](https://drive.google.com/file/d/1CSkDoVzliT0UhhHbPMmPLFT3nUtdBNy_/view?usp=sharing)|
 | Linebot + ChatGPT  | [連結](https://docs.google.com/presentation/d/1QgIVdQNpVu1PYhntSEz3pmjesgvKkoWB/edit?usp=drive_link&ouid=106659503145395898140&rtpof=true&sd=true) ||
 | 臉部辨識 & 手部辨識  | [連結](https://docs.google.com/presentation/d/1sNp5oo-yqM6FmQp_vxiQvzQ5og7Vm4Ba/edit?usp=drive_link&ouid=106659503145395898140&rtpof=true&sd=true) ||
-| Linebot美食小幫手  | [連結](https://docs.google.com/document/d/17--ZwlRwof9JbSRTOZexx2IErtdDPBx0m8G7qSuzzPE/edit?usp=drive_link) ||
+| Linebot美食小幫手  | [連結](https://www.canva.com/design/DAFZtRjRIkc/FAFTUBbFl7aQUwThSsa5jw/view) ||
