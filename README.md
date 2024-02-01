@@ -20,4 +20,11 @@
 | Detect & Segment - [Mediapipe](https://developers.google.com/mediapipe) | [連結](https://docs.google.com/presentation/d/1lDb6HL8rxX7o1h9x3zqzF5QC5P69dqX7/edit?usp=drive_link&ouid=106659503145395898140&rtpof=true&sd=true) ||
 | 圖文快搜 | [連結](https://docs.google.com/presentation/d/1E2-RwoirUBvdFC2_RMCJAMsZd9_1YWhwOMFMQlqoBMM/edit?usp=drive_link) ||
 
-
+## 2023末 - 巨匠物聯網工程師班
+|  題目  | Github連結|
+|  ----  | ---- |
+| MBTI 16型人格分析：根據論壇發文定位你的人格分類！ | [連結](https://github.com/yunjiee/MBTI_project)|
+| 人臉打卡系統| [連結]()|
+| KTV 音樂評分|[連結](https://github.com/bmcpanda/gjun_python_basic)|
+| 動手玩貪食蛇|[連結](https://github.com/LonelyCaesar/Hand-tracking-mini-game)|
+| 天氣預報與地震警示Linebot|[連結](https://github.com/LonelyCaesar/line-bot-weather-bot)|
