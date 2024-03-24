@@ -15,7 +15,7 @@
 |  題目  | Github連結|
 |  ----  | ---- |
 | MBTI 16型人格分析：根據論壇發文定位你的人格分類！ | [連結](https://github.com/yunjiee/MBTI_project)|
-| 人臉打卡系統| [連結]()|
+| 人臉打卡系統| [連結](https://github.com/Hungtom831206/Face-Recognition)|
 | KTV 音樂評分|[連結](https://github.com/bmcpanda/gjun_python_basic)|
 | 動手玩貪食蛇|[連結](https://github.com/LonelyCaesar/Hand-tracking-mini-game)|
 | 天氣預報與地震警示Linebot|[連結](https://github.com/LonelyCaesar/line-bot-weather-bot)|
