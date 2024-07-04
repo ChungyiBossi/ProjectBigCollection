@@ -4,11 +4,11 @@
 |  題目  | Github 連結 |
 |  ----  | ---- |
 |【爬蟲應用】Youtube流量分析 | [連結](https://github.com/Allen43171/2024_project)|
-| 總統辯論線上直播：聲量傾向 | [連結]()|
-| AI交易模擬遊戲 |[連結]()|
-| Netflix 原創電影爬蟲分析 |[連結]()|
-| 草藥AI搜尋器 with Discord Bot |[連結](https://github.com/LonelyCaesar/line-bot-weather-bot)|
-| 股票買點分析 | [連結]()|
+| 總統辯論線上直播：聲量傾向 | [連結](https://docs.google.com/presentation/d/1b1il1hdUq0v5nbCuG70v8733walsQ3Pa/edit?usp=drive_link&ouid=106659503145395898140&rtpof=true&sd=true)|
+| AI交易模擬遊戲 |[連結](https://docs.google.com/presentation/d/1twJnzCXSIQNOGfAG4QY-aAE-L-SfiWZH/edit?usp=drive_link&ouid=106659503145395898140&rtpof=true&sd=true)|
+| Netflix 原創電影爬蟲分析 |[連結](https://www.canva.com/design/DAF74lvxmPw/rPacBLo_5drpol_oOS68Aw/view?utm_content=DAF74lvxmPw&utm_campaign=designshare&utm_medium=link&utm_source=editor#2)|
+| 草藥AI搜尋器 with Discord Bot |[連結](https://docs.google.com/presentation/d/1wqMNd7JYCBR_hf16VxPo7hRog-32tTS-/edit?usp=drive_link&ouid=106659503145395898140&rtpof=true&sd=true)|
+| 股票買點分析 | [連結](https://docs.google.com/presentation/d/1bsbOKRPwjJg-vSwnbGRat_QUh4WB9Kk4/edit?usp=drive_link&ouid=106659503145395898140&rtpof=true&sd=true)|
 
 
 ## 2023（冬）- 巨匠物聯網工程師班
